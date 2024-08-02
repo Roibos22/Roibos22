@@ -14,7 +14,6 @@
 <!--- INTRO -->
 
 <h3 align="center">👨‍🚀 About Me 👨‍🚀</h3>
-
 <br>
 
 <div align="center">
@@ -52,6 +51,7 @@
  
 <h3 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h3>
 <br/>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,swift,python,javascript,html,css" /> <br>
     <img src="https://skillicons.dev/icons?i=bash,linux,git,docker,vscode,figma,github" />
@@ -76,26 +76,18 @@
 <br>
 -->
 
-[comment]: <> (This is a comment, it will not be included)
-
-
-
 <!--- GITHUB STATS -->
+
 <!--- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roibos22&theme=dark&show_icons=true)
 -->
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h3 align="center">⚡ Stats ⚡</h3>
+<br>
 
 <div align=center>
-  <img width=500 src="https://streak-stats.demolab.com?user=Roibos22&theme=react" alt="streak stats"/>
-  <img width=310 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roibos22&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="streak stats"/>
+  <img width=500 src="https://streak-stats.demolab.com?user=Roibos22&theme=dracula&border_radius=10&size_weight=0.5&count_weight=0.5" alt="streak stats"/>
+  <img width=310 src="https://github-readme-stats-mocha-tau.vercel.app/api/top-langs/?username=Roibos22&langs_count=8&layout=compact&theme=dracula&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="streak stats"/>
 <br/>
 
 </div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
