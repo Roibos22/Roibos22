@@ -60,6 +60,34 @@
 <br/>
 <hr/>
 
+<!--- SELECTED PROJECTS -->
+
+<h3 align="center">🏗 Selected Projects 🏗</h3>
+<br/>
+
+<table align="center">
+  <tr>
+    <td style="text-align: center;"><img src="https://github.com/user-attachments/assets/14187509-941c-469e-a83b-b3a73c2cf3f0" width="150" alt="Inception badge"/></td>
+    <td><h4>Inception</h4><a href="https://github.com/Roibos22/Inception">See on GitHub</a></td>
+    <td><img src="https://github.com/user-attachments/assets/16a2456a-161f-4586-82ae-225e6572c4c7" width="150" alt="Cub3d badge"/></td>
+    <td><h4>Cub3D</h4><a href="https://github.com/Roibos22/cub3d">See on GitHub</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/af6fb564-fb7a-441d-83aa-2e78e2e0647a" width="150" alt="Minishell badge"/></td>
+    <td><h4>Minishell</h4><a href="https://github.com/Roibos22/minihell">See on GitHub</a></td>
+    <td><img src="https://github.com/user-attachments/assets/3678e54e-9842-4909-afb9-f137a931a695" width="130" alt="Health Pulse logo"/></td>
+    <td><h4>HealthPulse</h4><a href="https://apps.apple.com/us/app/health-pulse/id6497484745">See on AppStore</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/04bc9a74-ec21-4019-b1b6-e426fea3657b" width="130" alt="Doomsday Method logo"/></td>
+    <td><h4>DoomsdayMethod</h4><a href="https://apps.apple.com/us/app/doomsday-method/id6447447000">See on AppStore</a></td>
+    <td> <img src="https://github.com/user-attachments/assets/635b60a5-804c-49a5-aa6f-7847598d6c4f" width="130" alt="Just Tabata logo"/></td>
+    <td><h4>JustTabata</h4><a href="https://apps.apple.com/us/app/justtabata-tabata-timer/id6444348524">See on AppStore</a></td>
+  </tr>
+</table>
+
+<hr/>
+
 <!--- SNAKE EATING CONTRIBUTIONS -->
 <!---
 <div align="center">
