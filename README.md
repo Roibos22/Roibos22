@@ -50,11 +50,11 @@
 
 <!--- FRAMEWORKS AND TOOLS -->
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h3 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h3>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,c++,swift,swiftui" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,swift,python,javascript,html,css" /> <br>
+    <img src="https://skillicons.dev/icons?i=bash,linux,git,docker,vscode,figma,github" />
 </div>
 
 <br/>
