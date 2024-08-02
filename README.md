@@ -1,35 +1,54 @@
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Roibos22.Roibos22" />
+<!--- VISITORS BADGE -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=1200&size=35&duration=4000&pause=500&color=8D0423&center=true&vCenter=true&width=500&height=70&lines=hi+welt!;I'm+Leon+Grimmeisen!;"/>
-</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Roibos22.Roibos22&left_color=%23a8072b&right_color=%23a8072b" />
 
-<h3 align="center">A passionate Software Engineer from Berlin</h3>
+<!--- HEADER -->
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubunutu+Mono&weight=1200&size=35&duration=4000&pause=500&color=a8072b&center=true&vCenter=true&width=700&height=70&lines=hi+welt!👋;My+Name+is+Leon+Grimmeisen!;"/>
+</h3>
+
+<hr/>
+
+<!--- INTRO -->
+
+<h3 align="center">👨‍🚀 About Me 👨‍🚀</h3>
+
+<br>
 
 <div align="center">
 
-  Currently studying at **42 Berlin**
+  📍 currectly located in **Berlin**
 
-  Also working on multiple **iOS Apps**
+  🎓 studying at **42 Berlin**
 
-  42 is also cool!
+  💻 and working on my **iOS Apps**
   
 </div>
 
+<br>
+
+<!--- BADGES -->
+
 <div align="center"> 
   <a href="mailto:grimmeisen.leon@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/leon-grimmeisen" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://leongrimmeisen.de" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" />
+  </a>
+    <a href="https://apps.apple.com/at/developer/leon-grimmeisen/id1654025400" target="_blank">
+     <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" target="_blank" />
   </a>
 </div>
 
- <hr/>
+<hr/>
+
+<!--- FRAMEWORKS AND TOOLS -->
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
