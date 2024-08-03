@@ -1,8 +1,10 @@
 
 <!--- VISITORS BADGE -->
 
+<!---
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Roibos22.Roibos22&left_color=%23a8072b&right_color=%23a8072b" />
-
+-->
+ 
 <!--- HEADER -->
 
 <h3 align="center">
