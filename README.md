@@ -1,5 +1,8 @@
 
-<!--- VISITORS BADGE -->
+
+
+<!--- VIS![gmail](https://github.com/user-attachments/assets/9bbd6d1d-291c-4b30-b8dc-12f3e94c4a57)
+ITORS BADGE -->
 
 <!---
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Roibos22.Roibos22&left_color=%23a8072b&right_color=%23a8072b" />
@@ -30,21 +33,20 @@
 <br>
 
 <!--- BADGES -->
-
-<div align="center"> 
+<p align="center">
   <a href="mailto:grimmeisen.leon@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://github.com/user-attachments/assets/be9233f3-4566-458b-8135-ddf3079cde8e" height="40";"/>
   </a>
   <a href="https://linkedin.com/in/leon-grimmeisen" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://github.com/user-attachments/assets/8a5b451b-0857-489c-8a9c-3723d0ab38fd" height="40";"/>
   </a>
   <a href="https://leongrimmeisen.de" target="_blank">
-     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" />
+    <img src="https://github.com/user-attachments/assets/0d7be76f-1dba-4584-b19c-963502692e34" height="40";"/>
   </a>
-    <a href="https://apps.apple.com/at/developer/leon-grimmeisen/id1654025400" target="_blank">
-     <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" target="_blank" />
+  <a href="https://apps.apple.com/at/developer/leon-grimmeisen/id1654025400" target="_blank">
+    <img src="https://github.com/user-attachments/assets/07bed951-5aaf-4d32-bf71-68bc7a32495d" height="40";"/>
   </a>
-</div>
+</p>
 
 <hr/>
 
