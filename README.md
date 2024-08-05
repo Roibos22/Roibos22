@@ -69,10 +69,30 @@
 
 <table align="center">
   <tr>
+   <!--- INCEPTION -->
     <td style="text-align: center;"><img src="https://github.com/user-attachments/assets/14187509-941c-469e-a83b-b3a73c2cf3f0" width="150" alt="Inception badge"/></td>
-    <td><h4>Inception</h4><a href="https://github.com/Roibos22/Inception">See on GitHub</a></td>
+    <td>
+      <h4>Inception (42 Project)</h4>
+      <p>
+        • Docker-orchestrated infrastructure: NGINX, WordPress, MariaDB<br>
+        • Containerization, data persistence (volumes), networking<br>
+        • SSL/TLS configuration, Docker secrets management<br>
+        • PHP-FPM integration, Bash scripting
+      </p>
+      <a href="https://github.com/Roibos22/Inception">See on GitHub</a>
+    </td>
+    <!--- INCEPTION -->
     <td><img src="https://github.com/user-attachments/assets/16a2456a-161f-4586-82ae-225e6572c4c7" width="150" alt="Cub3d badge"/></td>
-    <td><h4>Cub3D</h4><a href="https://github.com/Roibos22/cub3d">See on GitHub</a></td>
+    <td>
+     <h4>Cub3D (42 Project)</h4>
+     <p>
+       • Raycasting-based 3D game engine inspired by Wolfenstein 3D<br>
+       • Implementation in C using the MinilibX graphics library<br>
+       • Map parsing, texture rendering, and sprite management<br>
+       • Player movement and collision detection
+     </p>
+     <a href="https://github.com/Roibos22/cub3d">See on GitHub</a>
+    </td>
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/af6fb564-fb7a-441d-83aa-2e78e2e0647a" width="150" alt="Minishell badge"/></td>
