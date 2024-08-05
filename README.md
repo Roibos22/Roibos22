@@ -86,7 +86,7 @@
     <td>
      <h4>Cub3D (42 Project)</h4>
      <p>
-       • Raycasting-based 3D game engine inspired by Wolfenstein 3D<br>
+       • Raycasting-based 3D game engine<br>
        • Implementation in C using the MinilibX graphics library<br>
        • Map parsing, texture rendering, and sprite management<br>
        • Player movement and collision detection
