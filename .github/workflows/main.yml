@@ -4,9 +4,8 @@ name: Generate Snake
 # Controls when the action will run.
 on:
   schedule:
-      # every 12 hours
+    # every 12 hours
     - cron: "0 */12 * * *"
-
   # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
   
@@ -21,7 +20,7 @@ jobs:
   build:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
-
+    
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Clone repo
@@ -31,17 +30,72 @@ jobs:
         uses: Platane/snk@v3
         id: snake-gif
         with:
+          # GitHub user name to read the contribution graph from (**required**)
+          # using action context var `github.repository_owner` or specified user
           github_user_name: ${{ github.repository_owner }}
+
+          # List of files to generate.
+          # One file per line. Each output can be customized with options as query string.
+          #
+          #  supported options:
+          #  - palette:     A preset of color, one of [github, github-dark, github-light]
+          #  - color_snake: Color of the snake
+          #  - color_dots:  Coma separated list of dots color.
+          #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+          #                 Exactly 5 colors are expected.
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        env:
-           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            dist/github-contribution-grid-snake.gif?color_snake=#FFD700&color_dots=#FFF0F3,#FFB3C1,#FF758F,#C9184A,#790728
+          # Whether to show the generated animation at the top of the README file (boolean)
+          # Default: false
+          readme_mode: false
 
+          # The day time range to read contribution graph data
+          # The first 8 characters will be parsed as the start date
+          # The last 8 characters will be parsed as the end date
+          # ISO8601 format, example: 2016-04-01..2016-08-01
+          # Default: (empty string, meaning all-time contributions will be counted)
+          day_range: ""
+
+          # The amount of weeks to generate data for
+          # Default: 52
+          weeks_amount: 26
+
+          # Generation of additional SVG images
+          # Default: false
+          generate_gif: false
+
+          # The number of images generated in the animation
+          # Default: 20
+          animation_frame_count: 20
+
+          # The delay between each frame in tenth of seconds
+          # Default: 20
+          animation_frame_delay: 20
+
+          # The width of the generated image in pixels
+          # Default: 900
+          svg_out_width: 900
+
+          # The height of the generated image in pixels
+          # Default: 200
+          svg_out_height: 200
+
+          # The size of each cell in the contribution graph in pixels
+          # Default: 11
+          cell_size: 11
+
+          # The distance between each cell in the contribution graph in pixels
+          # Default: 2
+          cell_gap: 2
+
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
       - name: Show build status
         run: git status
-
+        
       - name: Push new files to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
