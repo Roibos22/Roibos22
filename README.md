@@ -81,7 +81,7 @@
       </p>
       <a href="https://github.com/Roibos22/Inception">See on GitHub</a>
     </td>
-    <!--- INCEPTION -->
+    <!--- Cub3d -->
     <td><img src="https://github.com/user-attachments/assets/16a2456a-161f-4586-82ae-225e6572c4c7" width="150" alt="Cub3d badge"/></td>
     <td>
      <h4>Cub3D (42 Project)</h4>
@@ -95,16 +95,55 @@
     </td>
   </tr>
   <tr>
+    <!--- Cub3d -->
     <td><img src="https://github.com/user-attachments/assets/af6fb564-fb7a-441d-83aa-2e78e2e0647a" width="150" alt="Minishell badge"/></td>
-    <td><h4>Minishell</h4><a href="https://github.com/Roibos22/minihell">See on GitHub</a></td>
+    <td>
+     <h4>Minishell (42 Project)</h4>
+     <p>
+       • Custom shell implementation in C, inspired by bash<br>
+       • Command parsing and execution with support for pipes and redirections<br>
+       • Built-in command implementation (cd, echo, export, etc.)<br>
+       • Environment variable management and expansion
+     </p>
+     <a href="https://github.com/Roibos22/minihell">See on GitHub</a>
+    </td>
+    <!--- HealthPulse -->
     <td><img src="https://github.com/user-attachments/assets/3678e54e-9842-4909-afb9-f137a931a695" width="130" alt="Health Pulse logo"/></td>
-    <td><h4>HealthPulse</h4><a href="https://apps.apple.com/us/app/health-pulse/id6497484745">See on AppStore</a></td>
+    <td>
+     <h4>HealthPulse (iOS App)</h4>
+     <p>
+       • SwiftUI-based iOS App for Health data visualization<br>
+       • Integration with Apple HealthKit for real-time health metrics<br>
+       • Home screen widget for at-a-glance health updates<br>
+       • Goal setting and progress tracking features
+     </p>
+     <a href="https://apps.apple.com/us/app/health-pulse/id6497484745">See on AppStore</a>
+    </td>
   </tr>
   <tr>
+    <!--- DoomsdayMethod -->
     <td><img src="https://github.com/user-attachments/assets/04bc9a74-ec21-4019-b1b6-e426fea3657b" width="130" alt="Doomsday Method logo"/></td>
-    <td><h4>DoomsdayMethod</h4><a href="https://apps.apple.com/us/app/doomsday-method/id6447447000">See on AppStore</a></td>
+    <td>
+     <h4>DoomsdayMethod</h4>
+     <p>
+      • SwiftUI-based iOS app for learning the Doomsday Algorithm<br>
+      • CoreData integration for persistent storage of user progress<br>
+      • Performance tracking and statistics<br>
+      • Reactive UI with Combine framework for real-time updates<br>
+     </p>
+     <a href="https://apps.apple.com/us/app/doomsday-method/id6447447000">See on AppStore</a>
+    </td>
     <td> <img src="https://github.com/user-attachments/assets/635b60a5-804c-49a5-aa6f-7847598d6c4f" width="130" alt="Just Tabata logo"/></td>
-    <td><h4>JustTabata</h4><a href="https://apps.apple.com/us/app/justtabata-tabata-timer/id6444348524">See on AppStore</a></td>
+    <td>
+     <h4>JustTabata (iOS App)</h4>
+     <p>
+      • SwiftUI-based iOS app for customizable Tabata interval training<br>
+      • Reactive programming with Combine framework for timer logic<br>
+      • Core Data integration for workout history and user preferences<br>
+      • Custom audio engine for precise interval notifications<br>
+     </p>
+     <a href="https://apps.apple.com/us/app/justtabata-tabata-timer/id6444348524">See on AppStore</a>
+    </td>
   </tr>
 </table>
 
