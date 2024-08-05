@@ -149,9 +149,8 @@
 <hr/>
 
 <!--- SNAKE EATING CONTRIBUTIONS -->
-<!---
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h3>🐍 My Contributions 🐍</h4>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Roibos22/Roibos22/output/github-contribution-grid-snake.svg" />
   
@@ -159,10 +158,6 @@
 </div>
 
 <hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
--->
 
 <!--- GITHUB STATS -->
 
