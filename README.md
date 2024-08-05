@@ -16,17 +16,16 @@
 <!--- INTRO -->
 
 <h3 align="center">👨‍🚀 About Me 👨‍🚀</h3>
-<br>
 
-<div align="center">
-
-  📍 currectly located in **Berlin**
-
-  🎓 studying at **42 Berlin**
-
-  💻 and working on my **iOS Apps**
-  
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2931f3ed-7fcd-4c87-b408-e6ac59d85588" alt="lofi-girl-lofi" width="150" align="right";>
+  <img src="https://github.com/user-attachments/assets/dc3befa1-3508-427e-bbfb-4d14795369a8" alt="octocat" width="150" align="left";>
+  <br><br>
+  📍 Currently located in <strong>Berlin</strong><br>
+  🎓 Studying at <strong>42 Berlin</strong><br>
+  💻 Working on my <strong>iOS Apps</strong>
+  <br><br>
+</p>
 
 <br>
 
