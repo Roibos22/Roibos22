@@ -63,9 +63,9 @@ ITORS BADGE -->
 <br/>
 <hr/>
 
-<!--- SELECTED PROJECTS -->
+<!--- SELECTED 42 PROJECTS -->
 
-<h3 align="center">🏗 Selected Projects 🏗</h3>
+<h3 align="center">🏗 Selected 42 Projects 🏗</h3>
 <br/>
 
 <table align="center">
@@ -108,20 +108,29 @@ ITORS BADGE -->
      </p>
      <a href="https://github.com/Roibos22/minihell">See on GitHub</a>
     </td>
-    <!--- HealthPulse -->
-    <td><img src="https://github.com/user-attachments/assets/3678e54e-9842-4909-afb9-f137a931a695" width="130" alt="Health Pulse logo"/></td>
-    <td>
-     <h4>HealthPulse (iOS App)</h4>
-     <p>
-       • SwiftUI-based iOS App for Health data visualization<br>
-       • Integration with Apple HealthKit for real-time health metrics<br>
-       • Home screen widget for at-a-glance health updates<br>
-       • Goal setting and progress tracking features
-     </p>
-     <a href="https://apps.apple.com/us/app/health-pulse/id6497484745">See on AppStore</a>
-    </td>
   </tr>
-  <tr>
+</table>
+
+<hr/>
+
+<!--- SELECTED APPS -->
+
+<h3 align="center">📱 My iOS Apps 📱</h3>
+<br/>
+
+<table align="center">
+   <tr>
+        <!--- WorkoutPulse -->
+    <td> <img src="https://github.com/user-attachments/assets/1d72a6e7-8017-4ffd-a0d8-d660cd18d96c" width="130" alt="Just Tabata logo"/></td>
+    <td>
+     <h4>WorkoutPulse</h4>
+     <p>
+      • SwiftUI-based iOS app for customizable workouts<br>
+      • Reactive programming with Combine framework for timer logic<br>
+      • Custom audio engine for precise interval notifications<br>
+     </p>
+     <a href="https://apps.apple.com/us/app/justtabata-tabata-timer/id6444348524">See on AppStore</a>
+    </td>
     <!--- DoomsdayMethod -->
     <td><img src="https://github.com/user-attachments/assets/04bc9a74-ec21-4019-b1b6-e426fea3657b" width="130" alt="Doomsday Method logo"/></td>
     <td>
@@ -134,17 +143,20 @@ ITORS BADGE -->
      </p>
      <a href="https://apps.apple.com/us/app/doomsday-method/id6447447000">See on AppStore</a>
     </td>
-    <td> <img src="https://github.com/user-attachments/assets/635b60a5-804c-49a5-aa6f-7847598d6c4f" width="130" alt="Just Tabata logo"/></td>
+  <tr>
+    <!--- HealthPulse -->
+    <td><img src="https://github.com/user-attachments/assets/3678e54e-9842-4909-afb9-f137a931a695" width="130" alt="Health Pulse logo"/></td>
     <td>
-     <h4>JustTabata (iOS App)</h4>
+     <h4>HealthPulse</h4>
      <p>
-      • SwiftUI-based iOS app for customizable Tabata interval training<br>
-      • Reactive programming with Combine framework for timer logic<br>
-      • Core Data integration for workout history and user preferences<br>
-      • Custom audio engine for precise interval notifications<br>
+       • SwiftUI-based iOS App for Health data visualization<br>
+       • Integration with Apple HealthKit for real-time health metrics<br>
+       • Home screen widget for at-a-glance health updates<br>
+       • Goal setting and progress tracking features
      </p>
-     <a href="https://apps.apple.com/us/app/justtabata-tabata-timer/id6444348524">See on AppStore</a>
+     <a href="https://apps.apple.com/us/app/health-pulse/id6497484745">See on AppStore</a>
     </td>
+  </tr>
   </tr>
 </table>
 
