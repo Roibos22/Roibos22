@@ -126,8 +126,9 @@ ITORS BADGE -->
      <h4>WorkoutPulse</h4>
      <p>
       • SwiftUI-based iOS app for customizable workouts<br>
-      • Reactive programming with Combine framework for timer logic<br>
-      • Custom audio engine for precise interval notifications<br>
+      • Intuitive UI for numerous complex views<br>
+      • Reactive programming with Combine framework<br>
+      • Audio engine for precise interval notifications<br>
      </p>
      <a href="https://apps.apple.com/us/app/justtabata-tabata-timer/id6444348524">See on AppStore</a>
     </td>
