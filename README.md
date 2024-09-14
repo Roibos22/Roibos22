@@ -1,6 +1,4 @@
 
-
-
 <!--- VIS![gmail](https://github.com/user-attachments/assets/9bbd6d1d-291c-4b30-b8dc-12f3e94c4a57)
 ITORS BADGE -->
 <!---
