@@ -8,7 +8,7 @@ ITORS BADGE -->
 <!--- HEADER -->
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubunutu+Mono&weight=1200&size=35&duration=4000&pause=500&color=a8072b&center=true&vCenter=true&width=700&height=70&lines=hi+welt!👋;My+Name+is+Leon+Grimmeisen!;Olli sucks!;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubunutu+Mono&weight=1200&size=35&duration=4000&pause=500&color=a8072b&center=true&vCenter=true&width=700&height=70&lines=hi+welt!👋;My+Name+is+Leon+Grimmeisen!;Olli+sucks!;"/>
 </h3>
 
 <hr/>
