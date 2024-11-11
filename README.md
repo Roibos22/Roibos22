@@ -72,10 +72,10 @@ ITORS BADGE -->
     <td>
       <h4>Transcendence</h4>
       <p>
-        • ...<br>
-        • ...<br>
-        • ...<br>
-        • ...<br>
+        •  Full-stack web application featuring multiplayer Pong with 3D visualization<br>
+        •  Django REST backend with PostgreSQL database and WebSocket integration<br>
+        •  Secure authentication system with JWT and 2FA implementation<br>
+        •  Docker containerization and CLI client with complete functionality
       </p>
       <a href="https://github.com/Roibos22/ft_transcendence">See on GitHub</a>
     </td>
