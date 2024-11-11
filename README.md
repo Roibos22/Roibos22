@@ -67,10 +67,22 @@ ITORS BADGE -->
 
 <table align="center">
   <tr>
+    <!--- Transcendence -->
+    <td style="text-align: center;"><img src="https://github.com/user-attachments/assets/1db8d2c5-0c32-415d-8bb0-f8c877da87b4" width="150" alt="Transcendence badge"/></td>
+    <td>
+      <h4>Transcendence</h4>
+      <p>
+        • ...<br>
+        • ...<br>
+        • ...<br>
+        • ...<br>
+      </p>
+      <a href="https://github.com/Roibos22/ft_transcendence">See on GitHub</a>
+    </td>
    <!--- INCEPTION -->
     <td style="text-align: center;"><img src="https://github.com/user-attachments/assets/14187509-941c-469e-a83b-b3a73c2cf3f0" width="150" alt="Inception badge"/></td>
     <td>
-      <h4>Inception (42 Project)</h4>
+      <h4>Inception</h4>
       <p>
         • Docker-orchestrated infrastructure: NGINX, WordPress, MariaDB<br>
         • Containerization, data persistence (volumes), networking<br>
@@ -79,24 +91,13 @@ ITORS BADGE -->
       </p>
       <a href="https://github.com/Roibos22/Inception">See on GitHub</a>
     </td>
-    <!--- Cub3d -->
-    <td><img src="https://github.com/user-attachments/assets/16a2456a-161f-4586-82ae-225e6572c4c7" width="150" alt="Cub3d badge"/></td>
-    <td>
-     <h4>Cub3D (42 Project)</h4>
-     <p>
-       • Raycasting-based 3D game engine<br>
-       • Implementation in C using the MinilibX graphics library<br>
-       • Map parsing, texture rendering, and sprite management<br>
-       • Player movement and collision detection
-     </p>
-     <a href="https://github.com/Roibos22/cub3d">See on GitHub</a>
-    </td>
+    
   </tr>
   <tr>
-    <!--- Cub3d -->
+    <!--- Minishell -->
     <td><img src="https://github.com/user-attachments/assets/af6fb564-fb7a-441d-83aa-2e78e2e0647a" width="150" alt="Minishell badge"/></td>
     <td>
-     <h4>Minishell (42 Project)</h4>
+     <h4>Minishell</h4>
      <p>
        • Custom shell implementation in C, inspired by bash<br>
        • Command parsing and execution with support for pipes and redirections<br>
@@ -104,6 +105,18 @@ ITORS BADGE -->
        • Environment variable management and expansion
      </p>
      <a href="https://github.com/Roibos22/minihell">See on GitHub</a>
+    </td>
+    <!--- Cub3d -->
+    <td><img src="https://github.com/user-attachments/assets/16a2456a-161f-4586-82ae-225e6572c4c7" width="150" alt="Cub3d badge"/></td>
+    <td>
+     <h4>Cub3D</h4>
+     <p>
+       • Raycasting-based 3D game engine<br>
+       • Implementation in C using the MinilibX graphics library<br>
+       • Map parsing, texture rendering, and sprite management<br>
+       • Player movement and collision detection
+     </p>
+     <a href="https://github.com/Roibos22/cub3d">See on GitHub</a>
     </td>
   </tr>
 </table>
