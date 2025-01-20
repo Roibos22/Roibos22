@@ -95,7 +95,7 @@ ITORS BADGE -->
   </tr>
   <tr>
     <!--- Minishell -->
-    <td><img src="https://github.com/user-attachments/assets/af6fb564-fb7a-441d-83aa-2e78e2e0647a" width="150" alt="Minishell badge"/></td>
+<!--     <td><img src="https://github.com/user-attachments/assets/af6fb564-fb7a-441d-83aa-2e78e2e0647a" width="150" alt="Minishell badge"/></td>
     <td>
      <h4>Minishell</h4>
      <p>
@@ -105,7 +105,7 @@ ITORS BADGE -->
        • Environment variable management and expansion
      </p>
      <a href="https://github.com/Roibos22/minihell">See on GitHub</a>
-    </td>
+    </td> -->
     <!--- Cub3d -->
     <td><img src="https://github.com/user-attachments/assets/16a2456a-161f-4586-82ae-225e6572c4c7" width="150" alt="Cub3d badge"/></td>
     <td>
