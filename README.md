@@ -186,7 +186,7 @@ ITORS BADGE -->
 
 <!--- GITHUB STATS -->
 
-<!--- 
+<!---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roibos22&theme=dark&show_icons=true)
 -->
 
@@ -194,8 +194,8 @@ ITORS BADGE -->
 <br>
 
 <div align=center>
-  <img width=500 src="https://streak-stats.demolab.com?user=Roibos22&theme=dracula&border_radius=10" alt="streak stats"/>
-  <img width=310 src="https://github-readme-stats-mocha-tau.vercel.app/api/top-langs/?username=Roibos22&langs_count=8&layout=compact&theme=dracula&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="streak stats"/>
+  <img width=500 src="https://streak-stats.demolab.com?user=Roibos22&theme=dracula&border_radius=10" alt="GitHub Streak"/>
+  <img width=310 src="https://github-readme-stats-mocha-tau.vercel.app/api/top-langs/?username=Roibos22&langs_count=8&layout=compact&theme=dracula&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="sGitHub Languages"/>
 <br/>
 
 </div>
