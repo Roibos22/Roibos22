@@ -8,7 +8,7 @@ ITORS BADGE -->
 <!--- HEADER -->
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubunutu+Mono&weight=1200&size=35&duration=4000&pause=500&color=a8072b&center=true&vCenter=true&width=700&height=70&lines=hi+welt!👋;My+Name+is+Leon+Grimmeisen!;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubunutu+Mono&weight=1200&size=35&duration=4000&pause=500&color=a8072b&center=true&vCenter=true&width=700&height=70&lines=hi+welt!👋;"/>
 </h3>
 
 <hr/>
@@ -199,7 +199,7 @@ ITORS BADGE -->
   <!---
   <img width=310 src="https://github-readme-stats-mocha-tau.vercel.app/api/top-langs/?username=Roibos22&langs_count=8&layout=compact&theme=dracula&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="sGitHub Languages"/>
   -->
-  <img width=500 src="https://streak-stats.demolab.com?user=Roibos22&theme=dracula&border_radius=10" alt="GitHub Streak"/>
+  <img width=700 src="https://streak-stats.demolab.com?user=Roibos22&theme=dracula&border_radius=10" alt="GitHub Streak"/>
 <br/>
 
 </div>
