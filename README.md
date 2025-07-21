@@ -21,8 +21,8 @@ ITORS BADGE -->
   <img src="https://github.com/user-attachments/assets/2931f3ed-7fcd-4c87-b408-e6ac59d85588" alt="lofi-girl-lofi" width="150" align="right";>
   <img src="https://github.com/user-attachments/assets/dc3befa1-3508-427e-bbfb-4d14795369a8" alt="octocat" width="150" align="left";>
   <br><br>
+  💼 Backend Engineer<br>
   📍 Located in Berlin<br>
-  💼 Junior Software Engineer<br>
   🎓 42 Berlin Graduate<br>
   💻 Passion for iOS Development
   <br><br>
@@ -48,8 +48,9 @@ ITORS BADGE -->
 
 <hr/>
 
-<!--- FRAMEWORKS AND TOOLS -->
  
+<!--- FRAMEWORKS AND TOOLS -->
+<!---
 <h3 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h3>
 <br/>
 
@@ -60,6 +61,7 @@ ITORS BADGE -->
 
 <br/>
 <hr/>
+-->
 
 <!--- SELECTED 42 PROJECTS -->
 
@@ -126,7 +128,7 @@ ITORS BADGE -->
 
 <!--- SELECTED APPS -->
 
-<h3 align="center">📱 My iOS Apps 📱</h3>
+<h3 align="center">📱 iOS Apps 📱</h3>
 <br/>
 
 <table align="center">
@@ -176,7 +178,7 @@ ITORS BADGE -->
 
 <!--- SNAKE EATING CONTRIBUTIONS -->
 <div align="center">
-  <h3>🐍 My Contributions 🐍</h4>
+  <h3>🐍 Contributions 🐍</h4>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Roibos22/Roibos22/output/github-contribution-grid-snake.svg" />
   
@@ -194,8 +196,10 @@ ITORS BADGE -->
 <br>
 
 <div align=center>
-  <img width=500 src="https://streak-stats.demolab.com?user=Roibos22&theme=dracula&border_radius=10" alt="GitHub Streak"/>
+  <!---
   <img width=310 src="https://github-readme-stats-mocha-tau.vercel.app/api/top-langs/?username=Roibos22&langs_count=8&layout=compact&theme=dracula&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="sGitHub Languages"/>
+  -->
+  <img width=500 src="https://streak-stats.demolab.com?user=Roibos22&theme=dracula&border_radius=10" alt="GitHub Streak"/>
 <br/>
 
 </div>
