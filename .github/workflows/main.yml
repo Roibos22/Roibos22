@@ -44,9 +44,8 @@ jobs:
           #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
           #                 Exactly 5 colors are expected.
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#4CAF50&color_dots=#FFFFFF,#FF5F5C,#E34234,#B22222,#800000
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#4CAF50&color_dots=#FFFFFF,#FF5F5C,#E34234,#B22222,#800000
-            dist/github-contribution-grid-snake.gif?color_snake=#4CAF50&color_dots=#FFFFFF,#FF5F5C,#E34234,#B22222,#800000
+            dist/github-contribution-grid-snake.svg?color_snake=#331D23&color_dots=#EDE3E5,#F7C1CB,#E67891,#C0234A,#8B0725
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#F7EEEC&color_dots=#2A1A1E,#5C1A2A,#8B0725,#C23A55,#F59AAB
           # Whether to show the generated animation at the top of the README file (boolean)
           # Default: false
           readme_mode: false

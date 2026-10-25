@@ -1,0 +1,115 @@
+{
+  "user": "Roibos22",
+  "name": "Leon Grimmeisen",
+  "taglines": [
+    "an AI engineer.",
+    "an agent builder.",
+    "a data engineer.",
+    "an automation nerd.",
+    "an indie app maker.",
+    "a 42 Berlin grad.",
+    "a marathon runner.",
+    "a pizza & ice cream lover.",
+    "a VfB Stuttgart fan."
+  ],
+  "chips": [
+    {
+      "label": "Hamburg"
+    },
+    {
+      "label": "Data & AI Engineer @ Vengine",
+      "accent": true
+    },
+    {
+      "label": "42 Berlin grad"
+    }
+  ],
+  "links": [
+    {
+      "id": "site",
+      "label": "leongrimmeisen.de",
+      "url": "https://leongrimmeisen.de",
+      "accent": true,
+      "external": true
+    },
+    {
+      "id": "linkedin",
+      "label": "linkedin",
+      "url": "https://www.linkedin.com/in/lgrimmei",
+      "external": true
+    },
+    {
+      "id": "appstore",
+      "label": "app store",
+      "url": "https://apps.apple.com/at/developer/leon-grimmeisen/id1654025400",
+      "external": true
+    },
+    {
+      "id": "email",
+      "label": "lmgrimmeisen@gmail.com",
+      "url": "mailto:lmgrimmeisen@gmail.com"
+    }
+  ],
+  "about": {
+    "rows": [
+      [
+        "Now",
+        "Data & AI Engineer at **Vengine**, Hamburg."
+      ],
+      [
+        "Before",
+        "Junior Backend Engineer (AI focus) at **Andercore**, Berlin."
+      ],
+      [
+        "Before that",
+        "Product Manager at **Myos**, Berlin."
+      ],
+      [
+        "Favorite stack",
+        "`Python` `LangGraph` `Claude Code` `Amazon Bedrock` `RAG` `Langfuse` `Databricks` `dbt` `PostgreSQL` `AWS` `Swift`"
+      ]
+    ]
+  },
+  "school": {
+    "logo": "logo-42berlin.png",
+    "eyebrow": "42 berlin · 2023–2025",
+    "title": "Where C became my first language.",
+    "lines": [
+      "No professors, no lectures, just projects and peers.",
+      "15 core projects in C and C++, all peer-reviewed."
+    ],
+    "badges": [
+      "badge-42-ft_transcendence.png",
+      "badge-42-inception.png",
+      "badge-42-cub3d.png"
+    ],
+    "url": "https://github.com/Roibos22?tab=repositories"
+  },
+  "studio": {
+    "logo": "logo-roibos-labs.png",
+    "eyebrow": "roibos labs · since 2022",
+    "title": "My own little app studio.",
+    "lines": [
+      "Solo-built iOS apps on the App Store,",
+      "from mental math to an AI voice journal."
+    ],
+    "url": "https://roiboslabs.com",
+    "apps": [
+      {
+        "label": "doomsday",
+        "name": "Doomsday Method",
+        "icon": "app-doomsday-method.png"
+      },
+      {
+        "label": "chronicles",
+        "name": "Chronicles",
+        "icon": "app-chronicles.png"
+      },
+      {
+        "label": "tick",
+        "name": "Tick",
+        "icon": "app-tick.png"
+      }
+    ]
+  }
+}
