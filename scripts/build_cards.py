@@ -9,6 +9,7 @@ can't load web fonts.
 """
 
 import base64
+import hashlib
 import json
 import pathlib
 from html import escape
@@ -189,8 +190,12 @@ def readme(p):
     cards = f"https://raw.githubusercontent.com/{user}/{user}/main/assets/cards"
     snake = f"https://raw.githubusercontent.com/{user}/{user}/output"
 
+    def versioned(file):
+        # content hash in the URL, so browsers and GitHub's cache fetch a changed card right away
+        return f"{cards}/{file}?v={hashlib.sha1((CARDS / file).read_bytes()).hexdigest()[:8]}"
+
     def card(name, alt, size='width="100%"'):
-        return picture(f"{cards}/{name}.svg", f"{cards}/{name}-light.svg", alt, size)
+        return picture(versioned(f"{name}.svg"), versioned(f"{name}-light.svg"), alt, size)
 
     def streak(theme):
         query = "&".join(f"{k}={v}" for k, v in STREAK[theme].items())
