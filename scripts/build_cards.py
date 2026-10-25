@@ -213,9 +213,9 @@ def readme(p):
 
 {rows}
 
-<a href="{s["url"]}">{card("42", f'{s["eyebrow"]}: {s["title"]} ' + " ".join(s["lines"]))}</a>
-
 <a href="{st["url"]}">{card("studio", f'{st["eyebrow"]}: {st["title"]} ' + ", ".join(a["name"] for a in st["apps"]))}</a>
+
+<a href="{s["url"]}">{card("42", f'{s["eyebrow"]}: {s["title"]} ' + " ".join(s["lines"]))}</a>
 
 <p align="center">
   {picture(f"{snake}/github-contribution-grid-snake-dark.svg", f"{snake}/github-contribution-grid-snake.svg",

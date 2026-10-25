@@ -16,9 +16,9 @@
 - **Before that** · Product Manager at **Myos**, Berlin.
 - **Favorite stack** · `Python` `LangGraph` `Claude Code` `Amazon Bedrock` `RAG` `Langfuse` `Databricks` `dbt` `PostgreSQL` `AWS` `Swift`
 
-<a href="https://github.com/Roibos22?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Roibos22/Roibos22/main/assets/cards/42.svg"><img src="https://raw.githubusercontent.com/Roibos22/Roibos22/main/assets/cards/42-light.svg" width="100%" alt="42 berlin · 2023–2025: Where C became my first language. No professors, no lectures, just projects and peers. 15 core projects in C and C++, all peer-reviewed."></picture></a>
-
 <a href="https://roiboslabs.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Roibos22/Roibos22/main/assets/cards/studio.svg"><img src="https://raw.githubusercontent.com/Roibos22/Roibos22/main/assets/cards/studio-light.svg" width="100%" alt="roibos labs · since 2022: My own little app studio. Doomsday Method, Chronicles, Tick"></picture></a>
+
+<a href="https://github.com/Roibos22?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Roibos22/Roibos22/main/assets/cards/42.svg"><img src="https://raw.githubusercontent.com/Roibos22/Roibos22/main/assets/cards/42-light.svg" width="100%" alt="42 berlin · 2023–2025: Where C became my first language. No professors, no lectures, just projects and peers. 15 core projects in C and C++, all peer-reviewed."></picture></a>
 
 <p align="center">
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Roibos22/Roibos22/output/github-contribution-grid-snake-dark.svg"><img src="https://raw.githubusercontent.com/Roibos22/Roibos22/output/github-contribution-grid-snake.svg" width="100%" alt="Snake eating my contribution graph"></picture>
