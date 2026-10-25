@@ -106,29 +106,25 @@ def tile(t, clip_id, href, x, y, size, radius):
 def hero(p, t):
     step = 18 / len(p["taglines"])
     ticks = [
-        f'<text class="tick s{" first" if i == 0 else ""}" x="250" y="160" font-size="22" font-weight="500" '
+        f'<text class="tick s{" first" if i == 0 else ""}" x="40" y="164" font-size="26" font-weight="500" '
         f'style="animation-delay:{i * step:g}s"><tspan fill-opacity="0">and I\'m</tspan> '
         f'<tspan fill="{t["text"]}">{escape(line)}</tspan></text>'
         for i, line in enumerate(p["taglines"])
     ]
-    chips, x = [], 250
+    chips, x = [], 40
     for chip in p["chips"]:
         w = round(len(chip["label"]) * 12 * MONO_ADVANCE + 28)
         accent = chip.get("accent")
-        chips.append(f'<rect x="{x}" y="184" width="{w}" height="28" rx="14" '
+        chips.append(f'<rect x="{x}" y="190" width="{w}" height="28" rx="14" '
                      f'fill="{t["accent"] if accent else t["raised"]}"/>')
-        chips.append(text(x + w / 2, 202, escape(chip["label"]), "m5", 12,
+        chips.append(text(x + w / 2, 208, escape(chip["label"]), "m5", 12,
                           t["on_accent"] if accent else t["text"], anchor="middle"))
         x += w + 8
     body = "\n".join([
-        '<defs><clipPath id="portrait"><circle cx="125" cy="125" r="84"/></clipPath></defs>',
-        f'<circle cx="125" cy="125" r="90" fill="none" stroke="{t["accent"]}" stroke-width="4"/>',
-        f'<image href="{img("portrait.jpg")}" x="41" y="30" width="168" height="189" '
-        'preserveAspectRatio="xMidYMid slice" clip-path="url(#portrait)"/>',
-        text(250, 72, "&gt; my name is", "m5", 15, t["prompt"]),
-        text(250, 122, f'{escape(p["name"])}<tspan fill="{t["prompt"]}">.</tspan>', "s", 44, t["text"], 600,
-             extra=' letter-spacing="-1"'),
-        text(250, 160, "and I'm", "s", 22, t["muted"], 500),
+        text(40, 62, "&gt; my name is", "m5", 15, t["prompt"]),
+        text(40, 120, f'{escape(p["name"])}<tspan fill="{t["prompt"]}">.</tspan>', "s", 52, t["text"], 600,
+             extra=' letter-spacing="-1.2"'),
+        text(40, 164, "and I'm", "s", 26, t["muted"], 500),
         *ticks,
         *chips,
     ])
